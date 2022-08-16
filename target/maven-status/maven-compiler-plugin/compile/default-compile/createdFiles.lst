@@ -1,0 +1,6 @@
+com/tridhyaintuit/user/service/UserService.class
+com/tridhyaintuit/user/UserServiceApplication.class
+com/tridhyaintuit/user/controller/UserController.class
+com/tridhyaintuit/user/service/impl/UserServiceImpl.class
+com/tridhyaintuit/user/model/UserData.class
+com/tridhyaintuit/user/repository/UserRepository.class
